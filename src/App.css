@@ -1,0 +1,19 @@
+.container {
+  max-width: 1230px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.dark_bg {
+  background-color: rgb(9, 9, 11);
+}
+
+.dark_color {
+  color: white;
+}
